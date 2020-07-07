@@ -1,5 +1,5 @@
 # Runku Venkata Sasidhar
-Hi, I'm sasidhar (she/her)—a Data Scientist at Apporchid India limited working on AI to support machine learning frameworks. Previously worked on the Innoplexus india to help recommendations on keyword search. I live in Hyderabad, Telangana and Andhra native. 🙌 I'm a huge nerd/geek, comicon, and aspiring kaggler.
+Hi, I'm sasidhar (she/her)—a Data Scientist at Apporchid India limited working on AI to support machine learning frameworks. Previously worked on the Innoplexus india to help recommendations on keyword search in clinical and pubmed articles retrieval. I live in Hyderabad, Telangana and Andhra native. 🙌 I'm a huge nerd/geek, comicon, and aspiring kaggler.
 
 ## My values
 💖 Safety and trust<br>
